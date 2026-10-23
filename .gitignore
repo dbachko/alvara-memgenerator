@@ -1,3 +1,9 @@
 .idea
 settings.json
 memory.json
+!generated/memory.json
+__pycache__/
+.pytest_cache/
+.venv/
+*.egg-info/
+*.py[cod]
